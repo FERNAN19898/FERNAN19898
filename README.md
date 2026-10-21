@@ -96,7 +96,7 @@
         <a href="https://github.com/FERNAN19898/credi-quiosco">
           <img src="https://raw.githubusercontent.com/FERNAN19898/credi-quiosco/HEAD/media/logo.svg" width="110px" alt="credi-quiosco logo" />
         </a>
-        <h3>credi-quiosco</h3>
+        <h3>Credi Quiosco</h3>
         <a href="https://github.com/FERNAN19898/credi-quiosco">
           <img src="https://img.shields.io/badge/Ir_al_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ir al Repositorio" />
         </a>
